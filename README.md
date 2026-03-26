@@ -1,7 +1,7 @@
-Hii, I’m @ameerahbadr
-I’m interested in the cosmos, rockhounding, colors, and coding. 
-I’m currently learning the Odin Project foundations course
-I’m looking to collaborate on video games!!
+- Hii, I’m @ameerahbadr
+- I’m interested in the cosmos, rockhounding, colors, and coding. 
+- I’m currently learning the Odin Project foundations course.
+- I’m looking to collaborate on video games!!
 
 i'm an artist! find my work at ameerahbadr.art 
 
